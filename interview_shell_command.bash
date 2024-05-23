@@ -7,4 +7,7 @@ sed -n '50p' example.txt
   ps aux
   b.To list processes owned by a specfic user(replace name with the actual username)
    ps -u username
-  
+
+3.How to get files sorted command 
+  By modification time (oldest first):
+   ls -ltr
